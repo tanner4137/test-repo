@@ -21,3 +21,10 @@ https://www.git-tower.com/blog/git-cheat-sheet/
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 ```
+### What to include in README
+
+```
+
+- Sites that you find helpful information from
+
+```
